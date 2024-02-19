@@ -6,8 +6,6 @@
 
 #### 💬 Languages: <br/>
 
-![Golang](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd5)
 
 #### 🔨 Frameworks & Libraries: <br/>
 
