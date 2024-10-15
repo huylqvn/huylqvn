@@ -5,6 +5,7 @@
 
 
 #### 💬 Languages: <br/>
+GOLANG | JAVA | PYTHON | JS | PHP
 
 
 #### 🔨 Frameworks & Libraries: <br/>
